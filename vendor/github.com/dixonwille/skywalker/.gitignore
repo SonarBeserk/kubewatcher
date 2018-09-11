@@ -1,0 +1,9 @@
+*
+!*.*
+!*/
+vendor/**
+testingFolder/
+!vendor/vendor.json
+!LICENSE
+*.exe
+*.test
